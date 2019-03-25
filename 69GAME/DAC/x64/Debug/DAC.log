@@ -1,0 +1,3 @@
+﻿  XepHinh.cpp
+e:\69game\dac\xephinh.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DAC.vcxproj -> E:\69GAME\x64\Debug\DAC.exe
