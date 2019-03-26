@@ -1,3 +1,20 @@
-﻿  XepHinh.cpp
-e:\69game\dac\xephinh.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  DAC.vcxproj -> E:\69GAME\x64\Debug\DAC.exe
+﻿  pch.cpp
+  Intro.cpp
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\intro.cpp(468): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Menu.cpp
+  Superman.cpp
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\superman.cpp(461): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\superman.cpp(462): warning C4101: 'random': unreferenced local variable
+  Tetromino.cpp
+  XepHinh.cpp
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\xephinh.cpp(79): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Library.cpp
+  XuLy.cpp
+  Generating Code...
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\xuly.cpp(1353): warning C4715: 'KiemTraVaChamNhau': not all control paths return a value
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\xuly.cpp(1135): warning C4715: 'KiemTraVaChamDay': not all control paths return a value
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\superman.cpp(95): warning C4715: 'KiemTraVaChamNhau2': not all control paths return a value
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\superman.cpp(380): warning C4715: 'BotRight': not all control paths return a value
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\superman.cpp(324): warning C4715: 'BotDown': not all control paths return a value
+c:\users\quocthai\desktop\xephinh\game69\69game\dac\menu.cpp(105): warning C4715: 'key': not all control paths return a value
+  DAC.vcxproj -> C:\Users\QuocThai\Desktop\XepHinh\GAME69\69GAME\x64\Debug\DAC.exe

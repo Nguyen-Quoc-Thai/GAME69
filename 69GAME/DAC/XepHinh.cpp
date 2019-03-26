@@ -64,9 +64,9 @@ int main()
 {
 	//PlaySound("doan.wav", NULL, SND_FILENAME | SND_LOOP | SND_ASYNC);
 
-	//Show_game_name();
+	Show_game_name();
 
-	//MENU();
+	MENU();
 
 
 	resizeConsole(1250, 615);// Thay doi kich thuoc console
